@@ -46,7 +46,7 @@ public class Hooks extends BasePage{
 	public void af(Scenario scenario) throws IOException {
 		
 		if (scenario.isFailed()) {
-			logger.info("Store Screenshot in Folder");
+			logger.info("Store Screenshot in Folders");
 			ExtentTestManager.getTest().addScreenCaptureFromBase64String(getBase64Screenshot());
 		
 		Date dat = new Date();

@@ -19,6 +19,7 @@ public class Web_view_Steps extends BasePage {
 		Web_view_Pages web = new Web_view_Pages();
 		web.Clickon_ViewsOption();
 		// Vertical swipe
+		Thread.sleep(1000);
 		BasicFun.VerticalSwipe(0.9, 0.1);
 		Thread.sleep(1000);
 		BasicFun.VerticalSwipe(0.9, 0.1);
@@ -45,6 +46,7 @@ public class Web_view_Steps extends BasePage {
 	public void check_if_Sucessfully_reached_Webview_Page() throws Throwable {
 		Web_view_Pages web = new Web_view_Pages();
 		// Assertion
+		Thread.sleep(1000);
 		Assert.assertEquals(web.Clickon_ContentOption(), XlsReader.readExcel(9, 1));
 		logger.info("Web View Feature Ended");
 
