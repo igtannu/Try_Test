@@ -52,7 +52,7 @@ public class Multiple_choice_Scroll_Pages extends BasePage{
 
 	public boolean childern_selected() {
 		logger.info("Assert of Children Selected");
-		return Childern_selection.isSelected();
+		return Childern_selection.isEnabled();
 		
 		}
 	
