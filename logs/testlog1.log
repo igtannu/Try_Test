@@ -186,3 +186,16 @@
 2022-06-01 22:32:18,057 [main] INFO Logger_file - Click on Link Option
 2022-06-01 22:32:19,242 [main] INFO Logger_file - Assertion on Content
 2022-06-01 22:32:19,386 [main] INFO Logger_file - Web View Feature Ended
+2022-06-01 23:31:53,595 [main] INFO Logger_file - Basic Set-up
+2022-06-01 23:31:53,622 [main] INFO Logger_file - Web View Feature Started
+2022-06-01 23:31:53,911 [main] INFO Logger_file - Click on view Option
+2022-06-01 23:32:05,112 [main] INFO Logger_file - Click on Webview Option
+2022-06-01 23:32:25,229 [main] INFO Logger_file - Store Screenshot in Folders
+2022-06-01 23:32:25,233 [main] INFO Logger_file - Save screenshot
+2022-06-01 23:32:45,615 [main] INFO Logger_file - Basic Set-up
+2022-06-01 23:32:45,626 [main] INFO Logger_file - Web View Feature Started
+2022-06-01 23:32:45,904 [main] INFO Logger_file - Click on view Option
+2022-06-01 23:32:56,740 [main] INFO Logger_file - Click on Webview Option
+2022-06-01 23:32:58,511 [main] INFO Logger_file - Click on Link Option
+2022-06-01 23:32:59,949 [main] INFO Logger_file - Assertion on Content
+2022-06-01 23:33:00,081 [main] INFO Logger_file - Web View Feature Ended

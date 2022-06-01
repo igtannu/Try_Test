@@ -17,6 +17,7 @@ public class Web_view_Steps extends BasePage {
 	public void choose_Views_and_Scroll_down() throws Throwable {
 		logger.info("Web View Feature Started");
 		Web_view_Pages web = new Web_view_Pages();
+		Thread.sleep(1000);
 		web.Clickon_ViewsOption();
 		// Vertical swipe
 		Thread.sleep(1000);
