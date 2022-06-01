@@ -24,6 +24,8 @@ public class Web_view_Steps extends BasePage {
 		Thread.sleep(1000);
 		BasicFun.VerticalSwipe(0.9, 0.1);
 		Thread.sleep(1000);
+		BasicFun.VerticalSwipe(0.9, 0.1);
+		Thread.sleep(1000);
 
 
 	}

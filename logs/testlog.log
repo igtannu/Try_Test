@@ -173,3 +173,16 @@
 2022-06-01 19:50:55,926 - Logger_file -INFO - Drag and Dropping 
 2022-06-01 19:50:59,399 - Logger_file -INFO - Dropped
 2022-06-01 19:50:59,458 - Logger_file -INFO - Drag Drop Feature Ended
+2022-06-01 22:30:55,453 - Logger_file -INFO - Basic Set-up
+2022-06-01 22:30:55,469 - Logger_file -INFO - Web View Feature Started
+2022-06-01 22:30:55,814 - Logger_file -INFO - Click on view Option
+2022-06-01 22:31:04,820 - Logger_file -INFO - Click on Webview Option
+2022-06-01 22:31:24,933 - Logger_file -INFO - Store Screenshot in Folders
+2022-06-01 22:31:24,935 - Logger_file -INFO - Save screenshot
+2022-06-01 22:32:04,984 - Logger_file -INFO - Basic Set-up
+2022-06-01 22:32:04,996 - Logger_file -INFO - Web View Feature Started
+2022-06-01 22:32:05,333 - Logger_file -INFO - Click on view Option
+2022-06-01 22:32:16,296 - Logger_file -INFO - Click on Webview Option
+2022-06-01 22:32:18,057 - Logger_file -INFO - Click on Link Option
+2022-06-01 22:32:19,242 - Logger_file -INFO - Assertion on Content
+2022-06-01 22:32:19,386 - Logger_file -INFO - Web View Feature Ended
